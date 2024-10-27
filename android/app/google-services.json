@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13811131573",
+    "project_id": "productionapp-7e383",
+    "storage_bucket": "productionapp-7e383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13811131573:android:14b7c312cdaf9cf33c4afc",
+        "android_client_info": {
+          "package_name": "com.rezeda.production_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4T1UtYUOLPTSERZArzdPUc8IWNP3NgnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
